@@ -1,6 +1,6 @@
 {
   "versionName": "3.2",
-  "webpageUrl": "https://example.com/update",
+  "webpageUrl": "https://t.me/mr_jo_pay",
   "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": "- تحسين أداء التطبيق\n- إصلاح بعض الأخطاء\n- إضافة ميزات جديدة"
+  "updateDetails": " تحديث جديد التطبيق واضافه مميزات جديده"
 }
