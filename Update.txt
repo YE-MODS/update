@@ -1,0 +1,3 @@
+versionName=2.0
+webpageUrl=https://t.me/mr_jo_pay
+dialogTitle=تحديث جديد 
