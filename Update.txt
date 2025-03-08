@@ -2,5 +2,33 @@
   "versionName": "3.2",
   "webpageUrl": "https://t.me/mr_jo_pay",
   "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": " تحديث جديد التطبيق واضافه مميزات جديده"
+  "updateDetails": " 
+💚 RCWA V10.2 by Omar Shawky🔥
+
+📝 Changelog:
+
+⏰ Extend the validity of the expiry of the WhatsApp version.
+🛡 [Added] more Anti-ban protection🛡
+🛠 [Improvements] related to app stability and performance.
+🛠 [Improve] Mention mark 
+🛠 [Improve] Online dot mark 
+🛠 [Improve] Image quality 
+🛠 [Added] Card row
+🛠 [Fixed] Select one image 
+🛠 [Fixed] Select one message in context menu
+💥💥💥💥💥💥💥💥💥💥💥💥
+
+💚 RCWA V10.2 by Omar Shawky🔥
+
+📝 سجل التغييرات:
+
+⏰ تمديد صلاحية انتهاء صلاحية نسخة WhatsApp.
+🛡 [إضافة] المزيد من الحماية من الحظر🛡
+🛠 [تحسينات] تتعلق باستقرار التطبيق وأدائه.
+🛠 [تحسين] علامة الإشارة
+🛠 [تحسين] علامة النقطة على الإنترنت
+🛠 [تحسين] جودة الصورة
+🛠 [إضافة] صف البطاقة
+🛠 [إصلاح] تحديد صورة واحدة
+🛠 [إصلاح] تحديد رسالة واحدة في قائمة السياق"
 }
