@@ -1,6 +1,7 @@
 {
-  "versionName": "3.2",
-  "webpageUrl": "https://t.me/mr_jo_pay",
+  "versionName": "1.1",
+  "webpageUrl": "https://t.me/mstr_programming",
   "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": "هناك تحديث جديد /n/n تم اضافه مميزات جديده في التطبيق "
+  "updateDetails": "🔹 تحسين الأداء\n🔹 إصلاح الأخطاء\n🔹 إضافة ميزات جديدة",
+  "packageName": "com.update1"
 }
