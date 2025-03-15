@@ -1,0 +1,7 @@
+{
+  "allowed_packages": [
+    "com.mr.stor",
+    "com.example.app"
+  ],
+  "signature": "التوقيع_الأصلي_لتطبيقك"
+}
