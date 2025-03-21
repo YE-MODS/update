@@ -2,20 +2,11 @@
   "versionName": "1.2",
   "webpageUrl": "https://www.mediafire.com/file/plisezpf1xbotm0/%25D8%25A8%25D9%2588%25D8%25B3%25D8%25AA%25D8%25A7%25D8%25AA%25D9%2583_2.1_.apk/file",
   "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": "<h2>ما الجديد في الإصدار 1.1؟</h2>
+  "updateDetails": "<h2>ما الجديد في الإصدار 1.2</h2>
 <ul>
 <li>تحسينات في الأداء</li>
 <li>إصلاح أخطاء</li>
 <li>ميزات جديدة رائعة</li>
 </ul>",
   "packageName": "com.update"
-}
-
-
-
-{
-  "versionName": "1.1",
-  "webpageUrl": "https://your-update-link.com",
-  "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": "<h2>ما الجديد في الإصدار 1.1؟</h2><ul><li>تحسينات في الأداء</li><li>إصلاح أخطاء</li><li>ميزات جديدة رائعة</li></ul>"
 }
