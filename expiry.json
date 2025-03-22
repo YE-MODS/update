@@ -1,6 +1,6 @@
 {
-  "startDate": "2025-03-25",
-  "expiryDate": "2025-04-10",
+  "startDate": "2025-03-23",
+  "expiryDate": "2025-03-29",
   "warningDays": 7,
   "forcedUpdate": true,
   "warningMessage": "تنبيه: سينتهي دعم هذا الإصدار خلال {days} أيام. يرجى التحديث قريبًا.",
