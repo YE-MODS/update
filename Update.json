@@ -8,5 +8,6 @@
 <li>إصلاح أخطاء</li>
 <li>ميزات جديدة رائعة</li>
 </ul>",
-  "packageName": "com.update"
+  "packageName": "com.update",
+  "isForcedUpdate": true
 }
