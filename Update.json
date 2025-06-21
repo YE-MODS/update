@@ -1,13 +1,29 @@
 {
-  "versionName": "1.2",
-  "webpageUrl": "https://www.mediafire.com/file/plisezpf1xbotm0/%25D8%25A8%25D9%2588%25D8%25B3%25D8%25AA%25D8%25A7%25D8%25AA%25D9%2583_2.1_.apk/file",
-  "dialogTitle": "تحديث جديد متوفر!",
-  "updateDetails": "<h2>ما الجديد في الإصدار 1.2</h2>
-<ul>
-<li>تحسينات في الأداء</li>
-<li>إصلاح أخطاء</li>
-<li>ميزات جديدة رائعة</li>
-</ul>",
-  "packageName": "true . .  /false",
-  "isForcedUpdate": true
+  "stable": {
+    "versionName": "2.0.0",
+    "webpageUrl": "https://example.com/stable/app.apk",
+    "dialogTitle": "تحديث جديد متوفر",
+    "updateDetails": "<b>الإصدار المستقر 2.0</b><br>• تحسينات الأداء<br>• إصلاح الأخطاء",
+    "minSupport": 15,
+    "forceUpdate": false,
+    "signature": "ABCD1234..."
+  },
+  "beta": {
+    "versionName": "2.1.0-beta",
+    "webpageUrl": "https://example.com/beta/app.apk",
+    "dialogTitle": "تحديث بيتا جديد",
+    "updateDetails": "<b>الإصدار التجريبي 2.1</b><br>• ميزات جديدة<br>• تحسينات تجريبية",
+    "minSupport": 15,
+    "forceUpdate": true,
+    "signature": "WXYZ5678..."
+  },
+  "alpha": {
+    "versionName": "2.2.0-alpha",
+    "webpageUrl": "https://example.com/alpha/app.apk",
+    "dialogTitle": "تحديث ألفا جديد",
+    "updateDetails": "<b>الإصدار التجريبي المبكر 2.2</b><br>• ميزات قيد التطوير<br>• للاختبار فقط",
+    "minSupport": 15,
+    "forceUpdate": false,
+    "signature": "EFGH9012..."
+  }
 }
