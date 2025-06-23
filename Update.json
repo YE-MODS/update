@@ -1,29 +1,8 @@
 {
-  "stable": {
-    "versionName": "2.0.0",
-    "webpageUrl": "https://example.com/stable/app.apk",
-    "dialogTitle": "تحديث جديد متوفر",
-    "updateDetails": "<b>الإصدار المستقر 2.0</b><br>• تحسينات الأداء<br>• إصلاح الأخطاء",
-    "minSupport": 15,
-    "forceUpdate": false,
-    "signature": "ABCD1234..."
-  },
-  "beta": {
-    "versionName": "2.1.0-beta",
-    "webpageUrl": "https://example.com/beta/app.apk",
-    "dialogTitle": "تحديث بيتا جديد",
-    "updateDetails": "<b>الإصدار التجريبي 2.1</b><br>• ميزات جديدة<br>• تحسينات تجريبية",
-    "minSupport": 15,
-    "forceUpdate": true,
-    "signature": "WXYZ5678..."
-  },
-  "alpha": {
-    "versionName": "2.2.0-alpha",
-    "webpageUrl": "https://example.com/alpha/app.apk",
-    "dialogTitle": "تحديث ألفا جديد",
-    "updateDetails": "<b>الإصدار التجريبي المبكر 2.2</b><br>• ميزات قيد التطوير<br>• للاختبار فقط",
-    "minSupport": 15,
-    "forceUpdate": false,
-    "signature": "EFGH9012..."
-  }
+  "versionName": "2.5",
+  "webpageUrl": "https://example.com/download",
+  "dialogTitle": "تحديث جديد متاح!",
+  "updateDetails": "<b>الميزات الجديدة:</b><br>- واجهة مستخدم محسنة<br>- إصلاح الثغرات الأمنية<br>- تحسين الأداء",
+  "minRequiredVersion": 1.8,
+  "forceUpdate": false
 }
