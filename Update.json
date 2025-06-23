@@ -1,8 +1,8 @@
 {
   "versionName": "10.0",
   "webpageUrl": "https://example.com/update",
-  "dialogTitle": "New Update Available!",
-  "updateDetails": "This update includes important improvements and bug fixes",
+  "dialogTitle": "تحديث جديد",
+  "updateDetails": هناك بعض التعديلات تمت إضافتها الي التطبيق ",
   "forceUpdate": false,
   "minRequiredVersion": 2.5
 }
