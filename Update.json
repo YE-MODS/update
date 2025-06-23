@@ -1,8 +1,8 @@
 {
-  "versionName": "2.5",
-  "webpageUrl": "https://example.com/download",
-  "dialogTitle": "تحديث جديد متاح!",
-  "updateDetails": "<b>الميزات الجديدة:</b><br>- واجهة مستخدم محسنة<br>- إصلاح الثغرات الأمنية<br>- تحسين الأداء",
-  "minRequiredVersion": 1.8,
-  "forceUpdate": false
+  "versionName": "2.0",
+  "webpageUrl": "https://example.com/update",
+  "dialogTitle": "New Update Available!",
+  "updateDetails": "This update includes important improvements and bug fixes",
+  "forceUpdate": false,
+  "minRequiredVersion": 1.5
 }
