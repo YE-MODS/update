@@ -2,7 +2,7 @@
   "versionName": "10.0",
   "webpageUrl": "https://example.com/update",
   "dialogTitle": "تحديث جديد",
-  "updateDetails": هناك بعض التعديلات تمت إضافتها الي التطبيق ",
+  "updateDetails":"هناك بعض التعديلات تمت إضافتها الي التطبيق",
   "forceUpdate": false,
   "minRequiredVersion": 2.5
 }
