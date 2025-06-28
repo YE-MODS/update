@@ -3,6 +3,6 @@
   "webpageUrl": "https://example.com/update",
   "dialogTitle": "تحديث جديد",
   "updateDetails": "<div dir='rtl' style='background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); font-family: Arial, sans-serif; color: #333; line-height: 1.6;'><h3 style='margin-top: 0; color: #1a73e8;'>ما الجديد في هذا التحديث؟</h3><p>يسعدنا أن نقدم لكم تحديثًا جديدًا يتضمن العديد من التحسينات والإضافات، منها:</p><ul style='padding-right: 20px;'><li>تحسينات في سرعة التطبيق وأدائه</li><li>تصميم واجهة مستخدم أكثر سلاسة</li><li>إصلاح مشاكل الإبلاغ عن الأخطاء</li><li>إضافة ميزة البحث الذكي</li></ul><p style='margin-bottom: 0;'>نتمنى لكم تجربة ممتعة مع التطبيق!</p></div>",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "minRequiredVersion": 2.5
 }
